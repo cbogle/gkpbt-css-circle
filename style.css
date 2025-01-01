@@ -1,9 +1,18 @@
 .blue {
 			background-color:blue
 }
+<<<<<<< HEAD
 .red (
             background-color: red
 )
+=======
+.red {
+    background-color: red
+}
+.green {
+    background-color: green
+}
+>>>>>>> 435f509a47912540230e162be81082d383f72570
 .circle{
 			border-radius:50%;
 			width:500px;
